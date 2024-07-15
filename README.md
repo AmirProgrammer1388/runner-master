@@ -1,2 +1,2 @@
 # runner-master
- this a game
+ this a private
